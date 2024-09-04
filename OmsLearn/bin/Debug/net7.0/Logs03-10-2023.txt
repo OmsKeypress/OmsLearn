@@ -1,0 +1,6 @@
+*******************************************************************
+Date:03-10-2023 05:57:33 AM
+
+File Write Error:{"ClassName":"System.InvalidOperationException","Message":"Collection was modified; enumeration operation may not execute.","Data":null,"InnerException":null,"HelpURL":null,"StackTraceString":"   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()\r\n   at System.Linq.Enumerable.WhereListIterator`1.MoveNext()\r\n   at System.Linq.Lookup`2.Create(IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)\r\n   at System.Linq.GroupedEnumerable`2.GetEnumerator()\r\n   at System.Linq.Enumerable.SelectEnumerableIterator`2.ToList()\r\n   at EmployeeDirectory.DAL.CommomHelper.SaveQueuedDataIntoFile()","RemoteStackTraceString":null,"RemoteStackIndex":0,"ExceptionMethod":null,"HResult":-2146233079,"Source":"System.Private.CoreLib","WatsonBuckets":null}
+
+

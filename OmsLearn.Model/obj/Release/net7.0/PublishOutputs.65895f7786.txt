@@ -1,0 +1,6 @@
+D:\Om S\My Projects\OmsLearn\PublishOutput\OmsLearn.Model.dll
+D:\Om S\My Projects\OmsLearn\PublishOutput\OmsLearn.Model.deps.json
+D:\Om S\My Projects\OmsLearn\PublishOutput\OmsLearn.Model.pdb
+D:\Om S\My Projects\OmsLearn\PublishOutput\Microsoft.AspNetCore.Http.Features.dll
+D:\Om S\My Projects\OmsLearn\PublishOutput\Microsoft.Extensions.Primitives.dll
+D:\Om S\My Projects\OmsLearn\PublishOutput\System.IO.Pipelines.dll

@@ -1,0 +1,17 @@
+D:\Om S\My Projects\OmsLearn\OmsLearn.BLL\bin\Debug\net7.0\OmsLearn.BLL.deps.json
+D:\Om S\My Projects\OmsLearn\OmsLearn.BLL\bin\Debug\net7.0\OmsLearn.BLL.dll
+D:\Om S\My Projects\OmsLearn\OmsLearn.BLL\bin\Debug\net7.0\OmsLearn.BLL.pdb
+D:\Om S\My Projects\OmsLearn\OmsLearn.BLL\bin\Debug\net7.0\OmsLearn.DAL.dll
+D:\Om S\My Projects\OmsLearn\OmsLearn.BLL\bin\Debug\net7.0\OmsLearn.Model.dll
+D:\Om S\My Projects\OmsLearn\OmsLearn.BLL\bin\Debug\net7.0\OmsLearn.DAL.pdb
+D:\Om S\My Projects\OmsLearn\OmsLearn.BLL\bin\Debug\net7.0\OmsLearn.Model.pdb
+D:\Om S\My Projects\OmsLearn\OmsLearn.BLL\obj\Debug\net7.0\OmsLearn.BLL.csproj.AssemblyReference.cache
+D:\Om S\My Projects\OmsLearn\OmsLearn.BLL\obj\Debug\net7.0\OmsLearn.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Om S\My Projects\OmsLearn\OmsLearn.BLL\obj\Debug\net7.0\OmsLearn.BLL.AssemblyInfoInputs.cache
+D:\Om S\My Projects\OmsLearn\OmsLearn.BLL\obj\Debug\net7.0\OmsLearn.BLL.AssemblyInfo.cs
+D:\Om S\My Projects\OmsLearn\OmsLearn.BLL\obj\Debug\net7.0\OmsLearn.BLL.csproj.CoreCompileInputs.cache
+D:\Om S\My Projects\OmsLearn\OmsLearn.BLL\obj\Debug\net7.0\OmsLearn.BLL.dll
+D:\Om S\My Projects\OmsLearn\OmsLearn.BLL\obj\Debug\net7.0\refint\OmsLearn.BLL.dll
+D:\Om S\My Projects\OmsLearn\OmsLearn.BLL\obj\Debug\net7.0\OmsLearn.BLL.pdb
+D:\Om S\My Projects\OmsLearn\OmsLearn.BLL\obj\Debug\net7.0\ref\OmsLearn.BLL.dll
+D:\Om S\My Projects\OmsLearn\OmsLearn.BLL\obj\Debug\net7.0\OmsLearn.223E5E7D.Up2Date

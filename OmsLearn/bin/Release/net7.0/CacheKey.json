@@ -1,0 +1,10 @@
+{
+  "GetFavorite": {
+    "Datakey": "FavoriteList",
+    "ExpiryTime": 2
+  },
+  "BookList": {
+    "Datakey": "BookList",
+    "ExpiryTime": 1
+  }
+} 

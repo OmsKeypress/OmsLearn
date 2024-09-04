@@ -1,0 +1,15 @@
+D:\Om S\My Projects\OmsLearn\PublishOutput\OmsLearn.DAL.dll
+D:\Om S\My Projects\OmsLearn\PublishOutput\OmsLearn.DAL.deps.json
+D:\Om S\My Projects\OmsLearn\PublishOutput\OmsLearn.DAL.pdb
+D:\Om S\My Projects\OmsLearn\PublishOutput\Microsoft.AspNetCore.Http.Features.dll
+D:\Om S\My Projects\OmsLearn\PublishOutput\Microsoft.Extensions.Primitives.dll
+D:\Om S\My Projects\OmsLearn\PublishOutput\Newtonsoft.Json.dll
+D:\Om S\My Projects\OmsLearn\PublishOutput\System.Data.SqlClient.dll
+D:\Om S\My Projects\OmsLearn\PublishOutput\System.IO.Pipelines.dll
+D:\Om S\My Projects\OmsLearn\PublishOutput\runtimes\win-arm64\native\sni.dll
+D:\Om S\My Projects\OmsLearn\PublishOutput\runtimes\win-x64\native\sni.dll
+D:\Om S\My Projects\OmsLearn\PublishOutput\runtimes\win-x86\native\sni.dll
+D:\Om S\My Projects\OmsLearn\PublishOutput\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Om S\My Projects\OmsLearn\PublishOutput\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Om S\My Projects\OmsLearn\PublishOutput\OmsLearn.Model.dll
+D:\Om S\My Projects\OmsLearn\PublishOutput\OmsLearn.Model.pdb

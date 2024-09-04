@@ -1,0 +1,15 @@
+D:\Om S\My Projects\OmsLearn\OmsLearn.DAL\bin\Release\net7.0\OmsLearn.DAL.deps.json
+D:\Om S\My Projects\OmsLearn\OmsLearn.DAL\bin\Release\net7.0\OmsLearn.DAL.dll
+D:\Om S\My Projects\OmsLearn\OmsLearn.DAL\bin\Release\net7.0\OmsLearn.DAL.pdb
+D:\Om S\My Projects\OmsLearn\OmsLearn.DAL\bin\Release\net7.0\OmsLearn.Model.dll
+D:\Om S\My Projects\OmsLearn\OmsLearn.DAL\bin\Release\net7.0\OmsLearn.Model.pdb
+D:\Om S\My Projects\OmsLearn\OmsLearn.DAL\obj\Release\net7.0\OmsLearn.DAL.csproj.AssemblyReference.cache
+D:\Om S\My Projects\OmsLearn\OmsLearn.DAL\obj\Release\net7.0\OmsLearn.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Om S\My Projects\OmsLearn\OmsLearn.DAL\obj\Release\net7.0\OmsLearn.DAL.AssemblyInfoInputs.cache
+D:\Om S\My Projects\OmsLearn\OmsLearn.DAL\obj\Release\net7.0\OmsLearn.DAL.AssemblyInfo.cs
+D:\Om S\My Projects\OmsLearn\OmsLearn.DAL\obj\Release\net7.0\OmsLearn.DAL.csproj.CoreCompileInputs.cache
+D:\Om S\My Projects\OmsLearn\OmsLearn.DAL\obj\Release\net7.0\OmsLearn.DAL.csproj.CopyComplete
+D:\Om S\My Projects\OmsLearn\OmsLearn.DAL\obj\Release\net7.0\OmsLearn.DAL.dll
+D:\Om S\My Projects\OmsLearn\OmsLearn.DAL\obj\Release\net7.0\refint\OmsLearn.DAL.dll
+D:\Om S\My Projects\OmsLearn\OmsLearn.DAL\obj\Release\net7.0\OmsLearn.DAL.pdb
+D:\Om S\My Projects\OmsLearn\OmsLearn.DAL\obj\Release\net7.0\ref\OmsLearn.DAL.dll
